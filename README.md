@@ -12,7 +12,7 @@ const config = {
   threads: 1, // async threads per cluster
   pad_size: 1024, // random data pad size max
   file: {
-    max_file_size: 512, // random data file size max
+    max_file_size: 512, // random data file size max (cannot exceed pad)
     max_name_size: 16, // random filename max length
     ext: ['', 'txt', 'css'] // random file extensions
   },
