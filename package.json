@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-virus-non-resident-file-flooder",
+  "version": "1.0.0",
+  "description": "multi-thread non-resident file-flood virus base",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
